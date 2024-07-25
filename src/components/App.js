@@ -1,7 +1,9 @@
 
 import React from "react";
 import './../styles/App.css';
-import Todos from "./todos.jsx";
+import Todos from "./Todos";
+// import Todos from "./todos";
+
 
 
 const App = () => {
